@@ -54,5 +54,3 @@ The final score is calculated in a four-step process:
     python credit_scorer.py data/user-wallet-transactions.json
     ```
     This will generate `wallet_scores.csv` and `score_distribution.png` in the root directory.
-
-## File Structure
